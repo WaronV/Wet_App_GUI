@@ -1,0 +1,63 @@
+Imie opiekuna:wiktor
+Nazwisko opiekuna:pawlak
+Pesel opiekuna:12345678901
+Numer psa:910652
+Nazwa psa:lora
+Rasa psa:pudel
+Wiek psa:2
+Data dodana:2022-02-20
+/
+Imie opiekuna:daniel
+Nazwisko opiekuna:zawadka
+Pesel opiekuna:12345678903
+Numer psa:771816
+Nazwa psa:kamil
+Rasa psa:szpic
+Wiek psa:9
+Data dodana:2022-02-20
+/
+Imie opiekuna:daniel
+Nazwisko opiekuna:zawadka
+Pesel opiekuna:12345678903
+Numer psa:771817
+Nazwa psa:darek
+Rasa psa:szpic
+Wiek psa:9
+Data dodana:2022-02-20
+/
+Imie opiekuna:pp
+Nazwisko opiekuna:pp
+Pesel opiekuna:12345678902
+Numer psa:271099
+Nazwa psa:pp
+Rasa psa:pp
+Wiek psa:2
+Data dodana:2022-02-20
+/
+Imie opiekuna:julia
+Nazwisko opiekuna:kowalczyk
+Pesel opiekuna:12345678906
+Numer psa:303934
+Nazwa psa:liko
+Rasa psa:war
+Wiek psa:2
+Data dodana:2022-02-28
+/
+Imie opiekuna:ww
+Nazwisko opiekuna:ww
+Pesel opiekuna:12345678999
+Numer psa:745942
+Nazwa psa:ww
+Rasa psa:ww
+Wiek psa:2
+Data dodana:2022-02-28
+/
+Imie opiekuna:www
+Nazwisko opiekuna:eew
+Pesel opiekuna:12345678909
+Numer psa:967282
+Nazwa psa:ww
+Rasa psa:ww
+Wiek psa:4
+Data dodana:2022-03-31
+/
